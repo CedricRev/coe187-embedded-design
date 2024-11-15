@@ -8,7 +8,7 @@ This repository includes all of my activities completed with the Max78000, utili
 ## Activities
 
 - [LED Blinking and Flow](act1)
-- Ai8x Installation
+- Ai8x Installation ([Training](https://github.com/CedricRev/ai8x-training), [Synthesis](https://github.com/CedricRev/ai8x-synthesis))
 - Cats and Dogs Training
 - Keyword Spotting (KWS) Assignment
 - Zephyr OS
