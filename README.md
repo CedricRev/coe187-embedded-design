@@ -7,7 +7,7 @@ This repository includes all of my activities completed with the Max78000, utili
 
 ## Activities
 
-- Max78000 LED
+- [LED Blinking and Flow](act1)
 - Ai8x Installation
 - Cats and Dogs Training
 - Keyword Spotting (KWS) Assignment
